@@ -1,0 +1,12 @@
+git init: khởi tạo project dưới local
+
+tạo file mới hoặc thay đổi file
+
+git add .
+
+git commit -m"abcdxyz" m:message
+
+git remote add origin https://github.com/Vuthihongthanh86/demo0909.git
+kết nối project dưới máy tính và project trên github với nhau
+
+git push
